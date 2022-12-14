@@ -1,15 +1,3 @@
-<p align="center">
-  <a href="https://www.newt.so/">
-    <img src="https://user-images.githubusercontent.com/3859812/155490725-80ed1f06-996e-407f-8f63-fd54f0acaf14.svg" alt="Newt" width="70" height="57" />
-  </a>
-</p>
-<h3 align="center">
-Newt's starter
-</h3>
-<p align="center">
-  <a href="https://demo-newt-docs-starter-nextjs.vercel.app/">Demo</a> | <a href="https://www.newt.so/">Newt</a>
-</p>
-
 ## 概要
 
 **newt-docs-starter-nextjs**
